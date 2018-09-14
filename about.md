@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About You
-permalink: 
+title: About Me
+permalink: /about/
 ---
 
 I recently completed my internal medicine residency at the University of British Columbia. I am originally from Toronto and I speak three languages. My interests in math, computer science and technology have now led me to embark on a journey of learning data science! I am currently completing a Master of Data Science degree at UBC and hope to use these newfound knowledge and skills towards improving patient care in the future.
