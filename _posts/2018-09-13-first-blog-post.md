@@ -13,6 +13,6 @@ For me, I am interested in the intersection between data science and healthcare.
 
 In Canada, it takes at least 8 years from medical school to compeltion of residency to become an internal medicine physician, I wonder how long it would take a computer?
 
-<img src="http://kennedalemedical.com/wp-content/uploads/sites/282/2017/09/shutterstock_426687286.jpg" width="250" class="center"/>
+<img src="http://kennedalemedical.com/wp-content/uploads/sites/282/2017/09/shutterstock_426687286.jpg" width="250" class="center">
 
 [img source](http://kennedalemedical.com/wp-content/uploads/sites/282/2017/09/shutterstock_426687286.jpg)
