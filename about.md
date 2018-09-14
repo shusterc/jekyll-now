@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I recently completed my internal medicine residency at the University of British Columbia. I am originally from Toronto and I speak three languages. My interests in math, computer science and technology have now led me to embark on a journey of completing a degree in data science!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Outside of being permanently stuck in the 'student' phase of life, I enjoy spending time in the outdoors. Hiking, camping, skiing and kayaking are some of my favourite activities to do in my spare time, when I don't have enough time to travel. I am also an avid swimmer and love to play chess!
